@@ -1,0 +1,8 @@
+# Compute the first area
+radius=1.0
+PI=3.14159
+area=radius*radius*PI
+print("The area is",area,"for radius",radius)
+
+# Compute the second area
+
